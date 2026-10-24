@@ -1,0 +1,43 @@
+{
+  "keyboard": [
+    "Left / Right",
+    "Up",
+    "Down",
+    "Ctrl",
+    "Alt",
+    "Enter",
+    "Esc"
+  ],
+  "gamepad": [],
+  "mouse": [],
+  "bindings": [
+    {
+      "input": "Left / Right",
+      "action": "Move left or right"
+    },
+    {
+      "input": "Up",
+      "action": "Use doors, switches and nearby interactive objects; move up in menus"
+    },
+    {
+      "input": "Down",
+      "action": "Move down through menu choices"
+    },
+    {
+      "input": "Ctrl",
+      "action": "Jump"
+    },
+    {
+      "input": "Alt",
+      "action": "Fire your weapon"
+    },
+    {
+      "input": "Enter",
+      "action": "Confirm a menu choice"
+    },
+    {
+      "input": "Esc",
+      "action": "Open the pause menu or go back; choose Save Game or Restore Game from the menu"
+    }
+  ]
+}

@@ -1,3 +1,24 @@
+# Dave Gnukem browser integration
+
+[Play in English](https://oldgamesarchive.org/games/dave-gnukem) · [中文试玩](https://oldgamesarchive.org/zh-cn/games/dave-gnukem) · [Build instructions](browser/BUILD.md)
+
+Original game by **David Joffe and contributors**. This Fork preserves upstream
+history and credits. Browser integration: Old Games Archive / CatBroDev.
+This is a browser edition of the modern SDL game, not the original Duke Nukem
+source, not an official upstream release, and not a claim to the first Web port.
+
+The `codex/browser-restoration` branch adds reproducible browser work under
+`browser/`. Native source is left unchanged; Web-only transformations happen
+in the build directory. Included: shared touch/keyboard input, pause/resume,
+isolated local checkpoint saves, default mute and deferred original music.
+See [release scope and licenses](browser/RELEASE-README.md). Full-campaign and
+physical Android/iOS testing are not claimed. Original asset licenses, including
+Eric Matyas / Soundimage music credits, remain separate from the code license.
+
+The original README follows unchanged.
+
+---
+
 # Dave Gnukem
 Dave Gnukem is a retro-style 2D scrolling platform shooter similar to, and inspired by, Duke Nukem 1 (~1991). The source code is cross-platform and open source. It runs on Windows, Linux, Mac OS X and more. (The original Duke Nukem 1 had 16-color EGA 320x200 graphics; the aim here is 'similar but different' gameplay and 'look and feel'. It is kind of a parody of the original. Please note it is not a 'clone', and not a 're-make'.)
 

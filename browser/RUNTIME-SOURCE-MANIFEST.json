@@ -1,0 +1,33 @@
+{
+  "deployedBundle": "69509823b41d531ef57077c60db3535b01c859adfe4e20f1e7a41204e04cfc6d",
+  "files": [
+    {
+      "path": "web-browser.cpp",
+      "sha256": "a88805252b0a57572ceb9eb32d4493daad6a1abc5ebdc729f5655fb3312279cb"
+    },
+    {
+      "path": "scripts/build-web.py",
+      "sha256": "c505841926f8bf46cc5a62ecaffb340a5b57c6afa2f04c7f882babcb282b8458"
+    },
+    {
+      "path": "web/bridge.js",
+      "sha256": "9717b93b69cff6e8f71bfca29ca2654579f855c8ad43738dabd91b874be6c803"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "a908aea3f1316937d3681b9e0144d6c8cd0421d2371c8c482847dce1223cc5a7"
+    },
+    {
+      "path": "web/input.js",
+      "sha256": "43a1cadb743755ab7c1ff382fa8edd3306a7e223764ae9b818d8a01a93b296cb"
+    },
+    {
+      "path": "web/music.js",
+      "sha256": "92774cd1639aea397eb470c93bb4005c83648525cf6bd7170a2845a68cdd93ec"
+    },
+    {
+      "path": "web/persistence.js",
+      "sha256": "6541fe2d8682bd00b2cf85b74ebb3086d3aa80321ccacc778ca0e18c832a47a6"
+    }
+  ]
+}
