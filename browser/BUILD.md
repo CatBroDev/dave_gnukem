@@ -6,10 +6,10 @@ Install Python 3 and Emscripten **4.0.23**; set `DAVE_EMSDK` to the absolute
 SDK directory. Run from this Fork's repository root:
 
 ```sh
-python browser/scripts/fetch-data.py
-python browser/scripts/build-web.py release
-python browser/scripts/package-release.py release
-python -m http.server 8080 --directory browser/build/release
+python -X utf8 browser/scripts/fetch-data.py
+python -X utf8 browser/scripts/build-web.py release
+python -X utf8 browser/scripts/package-release.py release
+python -X utf8 -m http.server 8080 --directory browser/build/release
 ```
 
 The data script verifies the pinned archive SHA-256 before extraction and retains
